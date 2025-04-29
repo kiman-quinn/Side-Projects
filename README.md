@@ -4,6 +4,10 @@ Side projects
 
 This repo is a place for me to keep some of my side projects and ways for me to practice ML modeling and data analysis. Most of it might be sports related but also open to any project as well
 
+Data:
+- Lahman Database
+- pybaseball
+
 
 Projects Included:
 - WAR model: predict player WAR for next season given stats from previous seasons (pybaseball)
