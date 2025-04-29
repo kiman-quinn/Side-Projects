@@ -7,6 +7,8 @@ This repo is a place for me to keep some of my side projects and ways for me to 
 
 Projects Included:
 - WAR model: predict player WAR for next season given stats from previous seasons (pybaseball)
+- Monte Carlo simulations
+- Pitch Type
 
 
 
@@ -16,3 +18,4 @@ Future Project Ideas:
 - Player Comparison
 - Bball is Angel Reece the queen of rebounds?
 - Caitlin vs Sab
+- Use Poisson distribution to estimate the probability a given number of events occurs
